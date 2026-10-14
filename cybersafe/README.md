@@ -1,6 +1,6 @@
 # CyberSafe — Phishing Detection Challenge
 
-An interactive cybersecurity awareness quiz designed to help college students recognize common phishing warning signs.
+Hello! This is an interactive cybersecurity awareness quiz designed to help college students or the elderly help recognize common phishing warning signs.
 
 ## Built with
 - HTML for page structure
@@ -19,4 +19,4 @@ All messages and domains are fictional (`.example` domains are reserved for docu
 - Ask volunteers to test the quiz, record anonymous feedback, and improve unclear explanations
 
 ## Safety & privacy
-No real login credentials, user accounts, network scanning, or external requests. The quiz runs entirely in the browser and doesn't collect personal data.
+No real login credentials, user accounts, network scanning, or external requests. The quiz runs entirely in the browser and doesn't collect any personal data.
